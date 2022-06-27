@@ -1,5 +1,14 @@
 #ifndef LISTS_H
 #define LISTS_H
+<<<<<<< HEAD:0x00-python-hello_world/lists.h
+=======
+/**
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
+ * Description: singly linked node structure
+ */
+>>>>>>> d22c9e4a3122e3d33e706ab7a152c46ce212a127:0x00-python-hello_world/list.h
 
 #include <stdlib.h>
 

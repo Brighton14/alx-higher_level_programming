@@ -1,8 +1,8 @@
-"""
-Defines an empty class Rectangle
-"""
+#!/usr/bin/python3
+
+'''empty class for rectangle'''
 
 
 class Rectangle:
-    """Empty representation of a rectangle"""
+    '''forgot this useless comment'''
     pass
